@@ -39,7 +39,7 @@ Step 6: Start your nodejs application locally - go to `app` directory of project
     
 Step 7: Access you nodejs application UI from browser
 
-    http://localhost:3000
+    http://192.168.40.131:3000 # or localhost
 
 ### With Docker Compose
 
@@ -63,7 +63,7 @@ Step 4: start node server
     
 Step 5: access the nodejs application from browser 
 
-    http://localhost:3000
+    http://192.168.40.131:3000 # or localhost
 
 #### To build a docker image from the application
 
